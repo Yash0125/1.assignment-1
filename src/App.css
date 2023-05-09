@@ -42,7 +42,7 @@ input:focus {
 .btn {
   height: 40px;
   width: 150px;
-  background-color: rgb(49, 10, 40);
+  background-color: blue;
   color: white;
   border-radius: 8px;
   border: none;
