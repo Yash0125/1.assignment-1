@@ -60,7 +60,7 @@ button[disabled] {
   width: 150px;
   border-radius: 8px;
   border: none;
-  background-color: rgb(50, 8, 40);
+  background-color: blue;
   color: #666666;
 }
 
